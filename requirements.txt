@@ -2,7 +2,7 @@ pandas
 numpy
 gym
 pygame
-Django
+Django==5.0.7
 setuptools
 gunicorn
 opencv-contrib-python-headless
